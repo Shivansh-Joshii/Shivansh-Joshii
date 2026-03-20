@@ -1,4 +1,4 @@
-# Hi, I'm Shivansh Joshi 👋
+# Hi, I'm Shivansh Joshi 
 
 🎓 B.Tech AI & Data Science Student (IPU)  
 💡 Aspiring Machine Learning Engineer  
